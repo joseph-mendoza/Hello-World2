@@ -4,7 +4,7 @@
 > Joey Mendoza
 
 ## Project Title
-**Hello World Github
+**Hello World Github**
 
 # Description 
 *This is for my Github in Analytics Class*
