@@ -1,7 +1,7 @@
 # Hello-World2
 
 ## CoolGuy
-> Joey Mendoza
+***Joey Mendoza***
 
 ## Project Title
 **Hello World Github**
